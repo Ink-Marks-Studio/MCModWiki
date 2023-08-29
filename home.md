@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2023-08-29T15:54:38.771Z
+date: 2023-08-29T15:58:30.444Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-29T06:50:38.797Z
@@ -35,6 +35,9 @@ dateCreated: 2023-08-29T06:50:38.797Z
  「xue_mu」雪沐
  鹭洲轨道交通管理！测试本站的相关功能！
  
+## 版权
+本博Wiki所有内容除特别声明外，均采用 [CC BY-NC-SA 4.0 (署名-非商业性使用-相同方式共享)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。转载请注明来自 鹭州轨道交通！
+
 **一个前所未有的Minecraft MTR Wiki，从这里开始！**
 
 
