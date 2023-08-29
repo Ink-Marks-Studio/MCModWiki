@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2023-08-29T13:59:10.895Z
+date: 2023-08-29T15:54:26.851Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-29T06:50:38.797Z
@@ -22,9 +22,9 @@ dateCreated: 2023-08-29T06:50:38.797Z
 3.Minecraft Transit Railway 的附属 Mod 介绍与使用教程
 3.与 城市建设 相关的Mod
 
-## 特别鸣谢
+## 编写人员
 「ZhiFeng」之风
- 鹭洲轨道交通创始人！本站站长！提供服务器允许的服主！
+ 鹭洲轨道交通创始人！本站站长！鹭州轨道交通的服主！
  
  「SangMoL」鼠某
  鹭洲轨道交通副创始人！提供本站文案与资料！
@@ -35,7 +35,7 @@ dateCreated: 2023-08-29T06:50:38.797Z
  「xue_mu」雪沐
  鹭洲轨道交通管理！测试本站的相关功能！
  
-一个前所未有的Minecraft MTR Wiki，从这里开始！
+## 一个前所未有的Minecraft MTR Wiki，从这里开始！
 
 
 
