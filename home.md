@@ -1,0 +1,43 @@
+---
+title: 首页
+description: 
+published: true
+date: 2023-08-29T13:59:10.895Z
+tags: 
+editor: markdown
+dateCreated: 2023-08-29T06:50:38.797Z
+---
+
+# 首页
+> 内容尚未完成
+{.is-warning}
+
+## 欢迎
+欢迎来到鹭州轨道交通的附属内容 Minecraft Transit Railway Wiki ！
+这是一个由一群飞友、一群车迷，一群志同道合的人所创作的公益 Wiki！
+
+## 本Wiki的内容
+1.[Minecraft Transit Railway](https://www.mcmod.cn/class/2157.html) 的介绍与使用教程
+2.StarrySkyMinecraftLauncher 的介绍与使用教程
+3.Minecraft Transit Railway 的附属 Mod 介绍与使用教程
+3.与 城市建设 相关的Mod
+
+## 特别鸣谢
+「ZhiFeng」之风
+ 鹭洲轨道交通创始人！本站站长！提供服务器允许的服主！
+ 
+ 「SangMoL」鼠某
+ 鹭洲轨道交通副创始人！提供本站文案与资料！
+ 
+ 「MichYTP」YTP
+ 鹭洲轨道交通管理！测试本站的相关功能！
+ 
+ 「xue_mu」雪沐
+ 鹭洲轨道交通管理！测试本站的相关功能！
+ 
+一个前所未有的Minecraft MTR Wiki，从这里开始！
+
+
+
+
+
