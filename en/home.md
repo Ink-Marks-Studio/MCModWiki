@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the affiliated content of Egret City Transit, the Minecraft Transit Railway Wiki! This is a nonprofit Wiki created by a community of aviation enthusiasts, railfans, and like-minded individuals.
 published: true
-date: 2023-08-30T05:20:29.159Z
+date: 2023-08-30T05:20:53.928Z
 tags: home
 editor: markdown
 dateCreated: 2023-08-30T05:20:29.159Z
