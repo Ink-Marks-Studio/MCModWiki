@@ -2,7 +2,7 @@
 title: MTR 介绍
 description: Minecraft Transit Railway（MTR）模组是在Java端根据港铁（MTR）制作的一个模组。它添加了多种列车、月台、屏蔽门、更好的铁轨、自动扶梯等方块物品。你可以使用本模组在游戏中建造一个功能完备的全自动铁路系统。
 published: true
-date: 2023-08-30T10:04:45.415Z
+date: 2023-08-30T10:05:12.200Z
 tags: mtr
 editor: markdown
 dateCreated: 2023-08-30T01:24:24.101Z
@@ -10,7 +10,7 @@ dateCreated: 2023-08-30T01:24:24.101Z
 
 # 介绍
 > 内容可能有误
-{.is-warning}
+{.is-info}
 
 Minecraft Transit Railway（MTR）模组是在Java端根据港铁（MTR）制作的一个模组。它添加了多种列车、月台、屏蔽门、更好的铁轨、自动扶梯等方块物品。你可以使用本模组在游戏中建造一个功能完备的全自动铁路系统。本模组最新beta版支持 Fabric / Forge 平台的1.16.2以上版本，当前建议使用3.1.2以上正式版本，理论上支持所有存在的语言，但大多都未完善。
 
