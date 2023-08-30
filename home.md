@@ -2,7 +2,7 @@
 title: 首页
 description: 欢迎来到鹭州轨道交通的附属内容 Minecraft Transit Railway Wiki ！ 这是一个由一群飞友、一群车迷，一群志同道合的人所创作的公益 Wiki！
 published: true
-date: 2023-08-30T03:20:13.641Z
+date: 2023-08-30T09:28:27.832Z
 tags: 主页
 editor: markdown
 dateCreated: 2023-08-29T06:50:38.797Z
@@ -21,6 +21,13 @@ dateCreated: 2023-08-29T06:50:38.797Z
 2.StarrySkyMinecraftLauncher 的介绍与使用教程
 3.Minecraft Transit Railway 的附属 Mod 介绍与使用教程
 3.与 城市建设 相关的Mod
+
+## 全站使用指南
+您可在顶部搜索栏中进行全站搜索
+多语言支持:
+- 简体中文
+- 繁體中文
+- English
 
 ## 编写人员
 「ZhiFeng」之风
