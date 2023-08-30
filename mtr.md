@@ -2,7 +2,7 @@
 title: MTR Wiki
 description: 这里是Minecraft Transit Railway Mod的Wiki！
 published: true
-date: 2023-08-30T05:17:59.437Z
+date: 2023-08-30T06:52:30.026Z
 tags: mtr
 editor: markdown
 dateCreated: 2023-08-30T01:24:24.101Z
@@ -32,6 +32,6 @@ MTR模组正式版一经面世，热度高涨，同时就有许多视频创作�
 MTR圈子中也有着许多优质的创作者，数不胜数，在此不一一赘述。
 
 同时，有许多关于MTR的论坛就因此诞生。
-[MTRBBS](www.mtrbbs.top) 便是其中之一，是MTR模组玩家中家喻户晓的一个论坛。其整合了许多MTR附属模组、MTR追加包等内容。MTRBBS同时也提供着最新版本的模组与最火的追加。
+[MTRBBS](https://www.mtrbbs.top)便是其中之一，是MTR模组玩家中家喻户晓的一个论坛。其整合了许多MTR附属模组、MTR追加包等内容。MTRBBS同时也提供着最新版本的模组与最火的追加。
 MTRBBS的热度逐渐提升之后，就开始自己举办比赛。例如建造大赛等。
-MTRBBS也同时被[MC百科](mcmod.cn)所收录。
+MTRBBS也同时被[mcmod](https://mcmod.cn)的MTR模组下载方式所收录。
