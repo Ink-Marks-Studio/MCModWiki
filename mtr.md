@@ -1,8 +1,8 @@
 ---
-title: MTR Wiki
-description: 这里是Minecraft Transit Railway Mod的Wiki！
+title: MTR-Introduce
+description: Minecraft Transit Railway（MTR）模组是在Java端根据港铁（MTR）制作的一个模组。它添加了多种列车、月台、屏蔽门、更好的铁轨、自动扶梯等方块物品。你可以使用本模组在游戏中建造一个功能完备的全自动铁路系统。
 published: true
-date: 2023-08-30T06:52:30.026Z
+date: 2023-08-30T10:03:45.849Z
 tags: mtr
 editor: markdown
 dateCreated: 2023-08-30T01:24:24.101Z
