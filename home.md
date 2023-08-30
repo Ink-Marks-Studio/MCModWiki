@@ -1,9 +1,9 @@
 ---
 title: 首页
-description: 如你所见，这是一个首页！
+description: 欢迎来到鹭州轨道交通的附属内容 Minecraft Transit Railway Wiki ！ 这是一个由一群飞友、一群车迷，一群志同道合的人所创作的公益 Wiki！
 published: true
-date: 2023-08-30T01:30:28.850Z
-tags: 
+date: 2023-08-30T03:20:13.641Z
+tags: 主页
 editor: markdown
 dateCreated: 2023-08-29T06:50:38.797Z
 ---
